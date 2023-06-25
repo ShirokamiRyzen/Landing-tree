@@ -1,4 +1,4 @@
 # Landing-tree
 
-# DEMO SITE
+# Demo Site
 # https://profile.ryzendesu.com
