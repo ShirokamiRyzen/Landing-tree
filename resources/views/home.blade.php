@@ -1,12 +1,12 @@
 @extends('layouts.app')
-@section('header','XTIK - LANDING')
+@section('header','Home')
 
 @section('content')
 <body>
     <div id="vanta-bg">
         <header>
             <div>
-                <img src="{{ $logo }}" alt="Pincang" />
+                <img src="{{ $logo }}" alt="profile" />
             </div>
             <h3> @Fatih_Firdaus </h3>
             <br>
