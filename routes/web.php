@@ -37,6 +37,7 @@ Route::get('/', function () {
 
         //bebas mau lu ganti apa hehe
         'website' => 'https://profile.ryzendesu.com',
+        'portfolio' => '#',
         'instagram' => 'https://www.instagram.com/ryzen_vermillion',
         'youtube' => 'https://www.youtube.com/c/AkiraID',
         'facebook' => 'https://www.facebook.com/Nao.Tomori.UwU',
