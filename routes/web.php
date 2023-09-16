@@ -24,7 +24,7 @@ Route::get('/', function () {
         'judul_lagu' => 'Orange',
         'Pencipta_lagu' => '7!!',
         'cover_lagu' => 'assets/img/orange.jpg', //bisa diganti link kalo mau
-        'link_musik' => 'https://cloud.ryzendesu.com/api/name/Orange.mp3?path=/media/Orange.mp3',
+        'link_musik' => 'https://cloud.ryzendesu.com/api/raw/?path=/Media/music/7!!-Orange_(Instrumental).mp3',
                     //cicak mati njir
 
         //link platform lagunya
