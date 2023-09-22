@@ -171,7 +171,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                             <!--Button Website-->
+                            <!--Button Website-->
                             <li class="accordion_item">
                                 <div class="accordion_header">
                                     <span>My Website</span>
@@ -183,8 +183,7 @@
                                         <ul>
                                             <!--Change links below if needed-->
                                             <li class="stream_buttons">
-                                                <a target="_blank"
-                                                    href="https://ryzendesu.com"
+                                                <a target="_blank" href="https://ryzendesu.com"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
                                                     <p>ryzendesu.com | Watch Anime</p>
@@ -193,8 +192,7 @@
                                                 </a>
                                             </li>
                                             <li class="stream_buttons">
-                                                <a target="_blank"
-                                                    href="https://profile.ryzendesu.com"
+                                                <a target="_blank" href="https://profile.ryzendesu.com"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
                                                     <p>profile.ryzendesu.com | Portfolio</p>
@@ -203,8 +201,7 @@
                                                 </a>
                                             </li>
                                             <li class="stream_buttons">
-                                                <a target="_blank"
-                                                    href="https://app.ryzendesu.com"
+                                                <a target="_blank" href="https://app.ryzendesu.com"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
                                                     <p>app.ryzendesu.com | Modded App</p>
@@ -213,8 +210,7 @@
                                                 </a>
                                             </li>
                                             <li class="stream_buttons">
-                                                <a target="_blank"
-                                                    href="https://api.ryzendesu.com"
+                                                <a target="_blank" href="https://api.ryzendesu.com"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
                                                     <p>api.ryzendesu.com | Rest API</p>
@@ -223,11 +219,35 @@
                                                 </a>
                                             </li>
                                             <li class="stream_buttons">
-                                                <a target="_blank"
-                                                    href="https://ytdl.ryzendesu.com"
+                                                <a target="_blank" href="https://ytdl.ryzendesu.com"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
                                                     <p>ytdl.ryzendesu.com | YTDL</p>
+                                                    <img src="assets/img/open.svg" width="20" height="20"
+                                                        style="margin-left: auto" />
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                            <!--Button Project-->
+                            <li class="accordion_item">
+                                <div class="accordion_header">
+                                    <span>My Project</span>
+                                    <span class="icon">+</span>
+                                </div>
+                                <div class="accordion_content">
+
+                                    <div class="stream_buttons_list">
+                                        <ul>
+                                            <!--Change links below if needed-->
+                                            <li class="stream_buttons">
+                                                <a target="_blank"
+                                                    href="wa.me/6285864034767"
+                                                    style="color:#374151; width: 100%; height: 100%; 
+                                            display: flex; justify-content: space-between;">
+                                                    <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" width="20"
+                                                        style="margin-right: 20px;" />
+                                                    <p>Nao-MD | Whatsapp Bot</p>
                                                     <img src="assets/img/open.svg" width="20" height="20"
                                                         style="margin-left: auto" />
                                                 </a>
