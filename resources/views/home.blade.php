@@ -242,7 +242,7 @@
                                             <!--Change links below if needed-->
                                             <li class="stream_buttons">
                                                 <a target="_blank"
-                                                    href="wa.me/6285864034767"
+                                                    href="https://wa.me/6285864034767"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
                                                     <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" width="20"
