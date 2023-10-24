@@ -186,7 +186,16 @@
                                                 <a target="_blank" href="https://ryzendesu.com"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
-                                                    <p>ryzendesu.com | Watch Anime</p>
+                                                    <p>ryzendesu.com | Hi-Res Audio</p>
+                                                    <img src="assets/img/open.svg" width="20" height="20"
+                                                        style="margin-left: auto" />
+                                                </a>
+                                            </li>
+                                            <li class="stream_buttons">
+                                                <a target="_blank" href="https://apk.ryzendesu.com"
+                                                    style="color:#374151; width: 100%; height: 100%; 
+                                            display: flex; justify-content: space-between;">
+                                                    <p>apk.ryzendesu.com | Mod APK</p>
                                                     <img src="assets/img/open.svg" width="20" height="20"
                                                         style="margin-left: auto" />
                                                 </a>
