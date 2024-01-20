@@ -9,7 +9,7 @@
                 <div>
                     <img src="{{ $logo }}" alt="profile" />
                 </div>
-                <h3> @Fatih_Firdaus </h3>
+                <h3> @Shirokami_Ryzen </h3>
                 <br>
                 <br>
                 <p>Programmer │ Modder │ Gamer</p>
@@ -183,55 +183,37 @@
                                         <ul>
                                             <!--Change links below if needed-->
                                             <li class="stream_buttons">
-                                                <a target="_blank" href="https://ryzendesu.com"
+                                                <a target="_blank" href="https://ryzendesu.vip"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
-                                                    <p>ryzendesu.com | Hi-Res Audio</p>
+                                                    <p>ryzendesu.vip | Anime sub indo</p>
                                                     <img src="assets/img/open.svg" width="20" height="20"
                                                         style="margin-left: auto" />
                                                 </a>
                                             </li>
                                             <li class="stream_buttons">
-                                                <a target="_blank" href="https://apk.ryzendesu.com"
+                                                <a target="_blank" href="https://apk.ryzendesu.vip"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
-                                                    <p>apk.ryzendesu.com | Mod APK</p>
+                                                    <p>apk.ryzendesu.vip | Mod APK</p>
                                                     <img src="assets/img/open.svg" width="20" height="20"
                                                         style="margin-left: auto" />
                                                 </a>
                                             </li>
                                             <li class="stream_buttons">
-                                                <a target="_blank" href="https://profile.ryzendesu.com"
+                                                <a target="_blank" href="https://profile.ryzendesu.vip"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
-                                                    <p>profile.ryzendesu.com | Portfolio</p>
+                                                    <p>profile.ryzendesu.vip | Portfolio</p>
                                                     <img src="assets/img/open.svg" width="20" height="20"
                                                         style="margin-left: auto" />
                                                 </a>
                                             </li>
                                             <li class="stream_buttons">
-                                                <a target="_blank" href="https://app.ryzendesu.com"
+                                                <a target="_blank" href="https://api.ryzendesu.vip"
                                                     style="color:#374151; width: 100%; height: 100%; 
                                             display: flex; justify-content: space-between;">
-                                                    <p>app.ryzendesu.com | Modded App</p>
-                                                    <img src="assets/img/open.svg" width="20" height="20"
-                                                        style="margin-left: auto" />
-                                                </a>
-                                            </li>
-                                            <li class="stream_buttons">
-                                                <a target="_blank" href="https://api.ryzendesu.com"
-                                                    style="color:#374151; width: 100%; height: 100%; 
-                                            display: flex; justify-content: space-between;">
-                                                    <p>api.ryzendesu.com | Rest API</p>
-                                                    <img src="assets/img/open.svg" width="20" height="20"
-                                                        style="margin-left: auto" />
-                                                </a>
-                                            </li>
-                                            <li class="stream_buttons">
-                                                <a target="_blank" href="https://ytdl.ryzendesu.com"
-                                                    style="color:#374151; width: 100%; height: 100%; 
-                                            display: flex; justify-content: space-between;">
-                                                    <p>ytdl.ryzendesu.com | YTDL</p>
+                                                    <p>api.ryzendesu.vip | Rest API</p>
                                                     <img src="assets/img/open.svg" width="20" height="20"
                                                         style="margin-left: auto" />
                                                 </a>

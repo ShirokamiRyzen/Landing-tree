@@ -20,11 +20,11 @@ Route::get('/', function () {
         'logo' => 'https://avatars.githubusercontent.com/u/76462435?v=4',
 
         //bebas mau diganti apa aja musiknya hehe
-        //hosted on cloud.ryzendesu.com
+        //hosted on cloud.ryzendesu.vip
         'judul_lagu' => 'Orange',
         'Pencipta_lagu' => '7!!',
         'cover_lagu' => 'assets/img/orange.jpg', //bisa diganti link kalo mau
-        'link_musik' => 'https://cloud.ryzendesu.com/api/raw/?path=/Media/music/Orange.mp3',
+        'link_musik' => 'https://ryzenshare.vercel.app/Ryzen1/ryzendesu.com/Media/music/Orange.mp3',
                     //cicak mati njir
 
         //link platform lagunya
@@ -36,7 +36,7 @@ Route::get('/', function () {
         'amazon_music' => 'https://music.amazon.com/albums/B00VDO364Y',
 
         //bebas mau lu ganti apa hehe
-        'website' => 'https://profile.ryzendesu.com',
+        'website' => 'https://profile.ryzendesu.vip',
         'portfolio' => '#',
         'instagram' => 'https://www.instagram.com/ryzen_vermillion',
         'youtube' => 'https://www.youtube.com/c/AkiraID',
